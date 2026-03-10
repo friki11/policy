@@ -1,0 +1,81 @@
+# Politique de confidentialité
+
+Cette politique de confidentialité décrit la manière dont notre application traite les informations des utilisateurs.  
+Nous accordons une grande importance à la protection de la vie privée et nous ne collectons **aucune donnée personnelle**.  
+Cependant, comme l’application affiche des publicités via **Google AdMob**, certaines données peuvent être collectées par Google. Cela est expliqué de manière transparente ci‑dessous.
+
+---
+
+## 1. Collecte de données
+
+L’application elle‑même ne collecte **aucune donnée personnelle ou sensible**.
+
+- Aucun nom, adresse e‑mail, numéro de téléphone ou autre identifiant n’est demandé.  
+- Aucun suivi, aucune analyse d’utilisation et aucune collecte de données personnelles n’est effectuée par nous.  
+- L’utilisation de l’application ne nécessite aucune inscription.
+
+**Remarque :**  
+L’intégration de **Google AdMob** peut entraîner la collecte de données techniques par Google (voir section 3).
+
+---
+
+## 2. Données techniques
+
+L’application fonctionne principalement hors ligne et utilise une **base de données locale** intégrée.  
+Elle contient uniquement les contenus de l’application (textes, images, descriptions) et ne permet en aucun cas d’identifier l’utilisateur.
+
+L’application n’envoie **aucune donnée propre** à des serveurs externes.
+
+---
+
+## 3. Publicités et communication avec des serveurs externes (AdMob)
+
+Pour financer l’application, nous utilisons **Google AdMob**.  
+L’affichage de publicités implique une communication avec les serveurs de Google.
+
+Google peut traiter notamment les données suivantes :
+
+- Adresse IP  
+- Informations sur l’appareil (modèle, version du système, etc.)  
+- Identifiant publicitaire Google (Advertising ID)  
+- Informations liées aux interactions avec les annonces  
+
+Ces traitements sont effectués par Google conformément à sa propre politique de confidentialité :  
+https://policies.google.com/privacy
+
+---
+
+## 4. Partage des données
+
+Nous ne partageons **aucune donnée** avec des tiers.  
+Toute collecte éventuelle est effectuée uniquement par Google dans le cadre d’AdMob.
+
+---
+
+## 5. Autorisations
+
+L’application ne demande que les autorisations nécessaires à son fonctionnement de base.  
+Aucune autorisation sensible (localisation, contacts, caméra, microphone, etc.) n’est requise.
+
+---
+
+## 6. Sécurité
+
+Comme nous ne collectons ni ne stockons de données personnelles, il n’existe aucun risque de fuite ou de vol de données provenant de notre application.  
+Les traitements effectués par Google AdMob sont soumis aux mesures de sécurité de Google.
+
+---
+
+## 7. Droits des utilisateurs
+
+Puisque nous ne traitons aucune donnée personnelle, il n’y a aucune information que nous pourrions consulter, modifier ou supprimer.  
+L’utilisateur peut désinstaller l’application à tout moment pour supprimer toutes les données locales.
+
+Pour les données éventuellement traitées par Google via AdMob, les droits de l’utilisateur sont définis dans la politique de confidentialité de Google.
+
+---
+
+## 8. Modifications de la politique
+
+Cette politique de confidentialité peut être mise à jour en cas de modifications de l’application ou des services utilisés.  
+Toutes les modifications seront indiquées dans cette section.
